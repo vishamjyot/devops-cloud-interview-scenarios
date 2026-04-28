@@ -43,6 +43,15 @@ devops-cloud-interview-scenarios/
 | 🔒 [Security](./security/scenarios.md) | IAM, secrets, encryption, compliance, supply chain | 40 |
 | ⚙️ [General DevOps](./general-devops/scenarios.md) | Cross-domain, disaster recovery, automation | 40 |
 
+---
+
+## 🌐 Read On The Go
+
+We also created a site for easier reading on the go:
+
+[techikrish.github.io/devops-cloud-interview-scenarios](https://techikrish.github.io/devops-cloud-interview-scenarios/)
+
+An Android app is also coming soon.
 
 ---
 
