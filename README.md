@@ -1,6 +1,6 @@
 # 🚀 DevOps & Cloud — Scenario-Based Interview Questions
 
-> **750 real-world scenario questions with plain-language answers** — covering Kubernetes, AWS, CI/CD, Terraform, Docker, Linux/SRE, Observability, Networking, and Security.
+> **770 real-world scenario questions with plain-language answers** — covering Kubernetes, AWS, CI/CD, Terraform, Docker, Linux/SRE, Observability, Networking, Security, and Git.
 
 This repo was built as a study companion for DevOps and Cloud engineers preparing for interviews at all levels. The focus is on **scenario-based questions** — the kind where an interviewer describes a real situation and asks *"what would you do?"* — because that's how mid-to-senior interviews actually work.
 
@@ -22,6 +22,7 @@ devops-cloud-interview-scenarios/
 ├── 🌐 networking/scenarios.md          46 questions
 ├── 🔒 security/scenarios.md            40 questions
 ├── ⚙️ general-devops/scenarios.md      40 questions
+├── 🌳 git/scenarios.md                 20 questions
 ├── 📄 README.md (this file)
 ├── 🤝 CONTRIBUTING.md                  (how to contribute)
 ├── 📜 LICENSE
@@ -42,6 +43,7 @@ devops-cloud-interview-scenarios/
 | 🌐 [Networking](./networking/scenarios.md) | VPCs, security groups, routing, DNS, load balancing | 46 |
 | 🔒 [Security](./security/scenarios.md) | IAM, secrets, encryption, compliance, supply chain | 40 |
 | ⚙️ [General DevOps](./general-devops/scenarios.md) | Cross-domain, disaster recovery, automation | 40 |
+| 🌳 [Git](./git/scenarios.md) | Version control, branching, rebases, conflicts, recovery, history rewriting | 20 |
 
 ---
 

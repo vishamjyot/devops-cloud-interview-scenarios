@@ -89,6 +89,15 @@ const DOMAINS = [
     count: 40,
     color: '#1abc9c',
     file: 'general-devops/scenarios.md'
+  },
+  {
+    id: 'git',
+    emoji: '🌳',
+    title: 'Git',
+    desc: 'Version control, branching, rebases, conflicts, recovery, history rewriting',
+    count: 20,
+    color: '#f1502f',
+    file: 'git/scenarios.md'
   }
 ];
 
