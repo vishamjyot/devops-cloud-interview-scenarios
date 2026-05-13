@@ -49,11 +49,37 @@ devops-cloud-interview-scenarios/
 
 ## 🌐 Read On The Go
 
-We also created a site for easier reading on the go:
+### Web companion site
 
-[techikrish.github.io/devops-cloud-interview-scenarios](https://techikrish.github.io/devops-cloud-interview-scenarios/)
+We also built a **companion website** so you can browse the same material in a browser—**instant search**, **dark and light themes** for long study sessions, and the same structure as the repo.
 
-An Android app is also coming soon.
+**Features**
+
+- 🔍 Search across **750+** scenarios instantly
+- 📊 Difficulty levels: **L1** (Fresher), **L2** (Mid), **L3** (Senior)
+- 🗂️ **11 domains** — Kubernetes, AWS, Terraform, CI/CD, Docker, Linux/SRE, Observability, Networking, Security, Git, and more
+- 🔖 Bookmarks for last-minute review
+- 🌙 Dark & light themes, no ads, no tracking
+
+**Live site:** [techikrish.github.io/devops-cloud-interview-scenarios](https://techikrish.github.io/devops-cloud-interview-scenarios/)
+
+![DevOps interview scenario Q&A — web landing (dark theme)](./assets/website-screenshot.png)
+
+### Android app (offline)
+
+After that, we shipped an **Android app** that packages the same scenario Q&A for **fully offline** use—no network required, so it is **ready to go** whenever you have a few minutes (commute, break room, or right before the interview).
+
+**Features**
+
+- 🔍 Search across **750+** scenarios instantly — offline
+- 📊 Difficulty levels: **L1** (Fresher), **L2** (Mid), **L3** (Senior)
+- 🗂️ **11 domains** — Kubernetes, AWS, Terraform, CI/CD, Docker, Linux/SRE, Observability, Networking, Security, Git, and more
+- 🔖 Bookmarks for last-minute review
+- 🌙 Dark mode, no ads, no tracking, **100% offline**
+
+**Get it on Google Play:** [DevOps & Cloud Interview Hub](https://play.google.com/store/apps/details?id=com.techikrish.devopsinterviewhub&hl=en_IN)
+
+![DevOps interview scenario Q&A — Android app home](./assets/android-app-screenshot.png)
 
 ---
 
