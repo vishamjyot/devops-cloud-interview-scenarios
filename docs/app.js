@@ -95,7 +95,7 @@ const DOMAINS = [
     emoji: '🌳',
     title: 'Git',
     desc: 'Version control, branching, rebases, conflicts, recovery, history rewriting',
-    count: 20,
+    count: 50,
     color: '#f1502f',
     file: 'git/scenarios.md'
   }
