@@ -1,6 +1,6 @@
 # 🐧 Linux / SRE — Scenario-Based Interview Questions
 
-**Q1. [L1] A critical web server is unresponsive, butping still works. SSH connection is refused. What could be the issue and how would you resolve it?**
+**Q1. [L1] A critical web server is unresponsive, but ping still works. SSH connection is refused. What could be the issue and how would you resolve it?**
 
 > *What the interviewer is testing:* Basic system troubleshooting, understanding of SSH vs. ICMP.
 
